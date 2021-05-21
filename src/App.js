@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
        <AmplifySignOut/>
        <h2>Đồ Án Cuối Kỳ Điện Toán Đám Mây - Amplify For Web - Nhóm 12</h2>
-       <h2>Cloud</h2>
+       <h2>Aws Amplify </h2>
        <h2>Huỳnh Nhựt Thiên 18110203</h2>
        <h2>Nguyễn Gia Huy 1811021</h2>
       </header>
